@@ -1,0 +1,107 @@
+
+.zai-box{
+	padding: 250rpx 100rpx;
+	position: relative;
+	background-image:url(https://i.niupic.com/images/2019/11/06/_18.jpeg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position-y: 200rpx;
+}
+.zai-logo{
+	margin:0 auto;
+	margin-top: -30px;
+	width: 166px;
+	height: 75px;
+	line-height: 20px;
+	border-radius: 20px;
+	background-color: rgba(37, 182, 237, 1);
+	border: 1px solid rgba(187, 187, 187, 1);
+}
+.zai-title{
+	position: absolute;
+	top: 85rpx;
+	line-height: 360rpx;
+	font-size: 68rpx;
+	text-align: center;
+	width: 100%;
+	margin-left: -100rpx;
+	color: rgba(255, 255, 255, 1);
+	font-family: PingFangSC-regular;
+}
+.zai-form{
+	margin-top: 150rpx;
+}
+.zai-input{
+	background: #e2f5fc;
+	margin-top: 30rpx;
+	border-radius: 100rpx;
+	padding: 20rpx 40rpx;
+	font-size: 36rpx;
+}
+.input-placeholder, .zai-input{
+	color: #94afce;
+}
+.zai-label{
+	padding: 60rpx 0;
+	text-align: center;
+	font-size: 30rpx;
+	color: #a7b6d0;
+}
+.zai-btn{
+	border: 0;
+	border-radius: 100rpx;
+	margin-top: 50rpx;
+	width: 80px;
+	height: 35px;
+	opacity: 0.57;
+	border-radius: 4px;
+	background-color: rgba(104, 189, 223, 1);
+	color: rgba(16, 16, 16, 1);
+	font-size: 14px;
+	text-align: center;
+	font-family: Microsoft Yahei;
+	border: 1px solid rgba(187, 187, 187, 1);
+}
+.zai-btn:after{
+	border: 0;
+}
+/*验证码输入框*/
+.zai-input-btn{
+	position: relative;
+}
+.zai-input-btn .zai-input{
+	padding-right: 260rpx;
+}
+.zai-checking{
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: rgba(104, 189, 223, 1);
+	color: #fff;
+	border: 0;
+	border-radius: 110rpx;
+	font-size: 36rpx;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 28rpx;
+	padding-right: 28rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	text-align: center;
+	text-decoration: none;
+	line-height: 2.55555556;
+	-webkit-tap-highlight-color: transparent;
+	overflow: hidden;
+	padding-top: 2rpx;
+	padding-bottom: 2rpx;
+}
+.zai-checking.zai-time{
+	background: #a7b6d0;
+}
+/*按钮点击效果*/
+.zai-btn.button-hover{
+	-webkit-transform: translate(1rpx, 1rpx);
+	    -ms-transform: translate(1rpx, 1rpx);
+	        transform: translate(1rpx, 1rpx);
+}
+
