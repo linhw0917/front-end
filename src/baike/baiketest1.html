@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <title></title>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+	    <link href="../css/style.css" rel="stylesheet">
+      <style>
+      #head {
+          height: 50px;
+          background-color: red; /* 浏览器不支持时显示 */
+          background-image: linear-gradient(#3399FF, #3399FF);
+      }
+      </style>
+      </head>
+	<body>
+    <div id="head" style="text-align:center;margin:auto;color:#000000;font-size:20px;font-weight:bold">
+      <p>宠物百科</p>
+    </div>
+    <div id="rooms">
+      <div>
+        <p>猫</p>
+        <button @click="btnclick()">猫猫</button>
+      </div>
+      <div>
+        <p>狗</p>
+        <button @click="btnclick()">狗狗</button>
+      </div>
+      <div>
+        <p>鸟</p>
+        <button @click="btnclick()">鸟鸟</button>
+      </div>
+    </div>
+    <script> = new Vue({
+      el:'rooms',
+      methord:{
+        btnclick:function(){
+
+        }
+      }
+    })
+      var rooms
+    </script>
+	</body>
+</html>
