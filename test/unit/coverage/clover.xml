@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573741976119" clover="3.2.0">
+  <project timestamp="1573741976120" name="All files">
+    <metrics statements="115" coveredstatements="0" conditionals="34" coveredconditionals="0" methods="58" coveredmethods="0" elements="207" coveredelements="0" complexity="0" loc="115" ncloc="115" packages="23" files="23" classes="23">
+      <package name="components.Chooseanimal">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\components\Chooseanimal\index.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="24" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.Icon">
+        <metrics statements="9" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\components\Icon\index.vue">
+          <metrics statements="9" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+        </file>
+      </package>
+      <package name="components.Name">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\components\Name\index.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.Password">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\components\Password\index.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="13" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.Position">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\components\Position\index.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="16" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.Sex">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\components\Sex\index.vue">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="16" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.center">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\center\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.collect">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\collect\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.interest">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\interest\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.loginning.animalchoose">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\loginning\animalchoose\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.loginning.change">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\loginning\change\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.loginning.forget">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\loginning\forget\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.loginning.login">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\loginning\login\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.loginning.register">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\loginning\register\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.loginning.usermassage">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\loginning\usermassage\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="router.set">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.js" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\router\set\index.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.center">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\center\index.vue">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="45" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.loginning.animalchoose">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\loginning\animalchoose\index.vue">
+          <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.loginning.change">
+        <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\loginning\change\index.vue">
+          <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="38" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="39" count="0" type="stmt"/>
+          <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="45" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.loginning.forget">
+        <metrics statements="21" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\loginning\forget\index.vue">
+          <metrics statements="21" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="9" coveredmethods="0"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="44" count="0" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+          <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="53" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="55" count="0" type="stmt"/>
+          <line num="57" count="0" type="stmt"/>
+          <line num="59" count="0" type="stmt"/>
+          <line num="61" count="0" type="stmt"/>
+          <line num="65" count="0" type="stmt"/>
+          <line num="66" count="0" type="stmt"/>
+          <line num="67" count="0" type="stmt"/>
+          <line num="71" count="0" type="stmt"/>
+          <line num="72" count="0" type="stmt"/>
+          <line num="73" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.loginning.login">
+        <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\loginning\login\index.vue">
+          <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+          <line num="44" count="0" type="stmt"/>
+          <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="51" count="0" type="stmt"/>
+          <line num="54" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.loginning.register">
+        <metrics statements="28" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\loginning\register\index.vue">
+          <metrics statements="28" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="10" coveredmethods="0"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="45" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+          <line num="59" count="0" type="stmt"/>
+          <line num="60" count="0" type="stmt"/>
+          <line num="61" count="0" type="stmt"/>
+          <line num="64" count="0" type="stmt"/>
+          <line num="66" count="0" type="stmt"/>
+          <line num="68" count="0" type="stmt"/>
+          <line num="70" count="0" type="stmt"/>
+          <line num="74" count="0" type="stmt"/>
+          <line num="76" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="78" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="80" count="0" type="stmt"/>
+          <line num="82" count="0" type="stmt"/>
+          <line num="84" count="0" type="stmt"/>
+          <line num="86" count="0" type="stmt"/>
+          <line num="90" count="0" type="stmt"/>
+          <line num="91" count="0" type="stmt"/>
+          <line num="92" count="0" type="stmt"/>
+          <line num="96" count="0" type="stmt"/>
+          <line num="97" count="0" type="stmt"/>
+          <line num="98" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="views.loginning.usermassage">
+        <metrics statements="13" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="index.vue" path="C:\Users\HP\Desktop\新建文件夹\chongaiyoujia\src\views\loginning\usermassage\index.vue">
+          <metrics statements="13" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="36" count="0" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+          <line num="50" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="51" count="0" type="stmt"/>
+          <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="54" count="0" type="stmt"/>
+          <line num="57" count="0" type="stmt"/>
+          <line num="61" count="0" type="stmt"/>
+          <line num="65" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
